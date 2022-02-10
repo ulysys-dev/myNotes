@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5043540fe3050e7b",
+        "id": "0642ba9e064a7412",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -46,6 +46,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "fe26f0b0ec0c38ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd93e74d83383bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,14 +88,57 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "702ddebc4d7bebe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "db30758505c4d050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a054ab4db0b4777",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8d916f092cfe4cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42b28c029ad54742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5043540fe3050e7b",
-  "lastOpenFiles": []
+  "active": "0642ba9e064a7412",
+  "lastOpenFiles": [
+    "Tutorial Obisidian.md"
+  ]
 }

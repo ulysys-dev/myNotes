@@ -1,3 +1,10 @@
 {
-  "legacyEditor": false
+  "legacyEditor": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

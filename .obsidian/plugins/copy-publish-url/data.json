@@ -1,0 +1,9 @@
+{
+  "homeNote": "",
+  "publishPath": "",
+  "enableContext": false,
+  "enableOpenUrl": true,
+  "enableGithub": true,
+  "remoteUrl": "https://github.com/ulysys-dev/myNotes.git/",
+  "branch": "main"
+}

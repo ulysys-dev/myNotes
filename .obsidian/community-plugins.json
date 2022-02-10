@@ -1,3 +1,6 @@
 [
-  "open-vscode"
+  "open-vscode",
+  "copy-publish-url",
+  "obsidian-git",
+  "obsidian-gist"
 ]
